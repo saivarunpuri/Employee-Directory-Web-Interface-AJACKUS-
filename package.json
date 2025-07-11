@@ -1,0 +1,42 @@
+{
+  "name": "employee-directory",
+  "version": "1.0.0",
+  "description": "A comprehensive employee directory web interface built with HTML, CSS, JavaScript, and Freemarker templates for AJACKUS Company Assignment",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "employee-directory",
+    "html",
+    "css",
+    "javascript",
+    "freemarker",
+    "frontend",
+    "web-application",
+    "crud",
+    "responsive-design"
+  ],
+  "author": "AJACKUS Assignment",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/employee-directory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/employee-directory/issues"
+  },
+  "homepage": "https://github.com/your-username/employee-directory#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
