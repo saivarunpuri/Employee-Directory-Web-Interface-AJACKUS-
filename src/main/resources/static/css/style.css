@@ -192,6 +192,7 @@ body {
   font-size: var(--font-size-base);
   transition: var(--transition-fast);
   background-color: var(--white);
+  color: var(--primary-color);
 }
 
 .search-box__input:focus {
